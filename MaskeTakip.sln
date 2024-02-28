@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaskeTakip", "MaskeTakip\MaskeTakip.csproj", "{B2D94475-65FA-46DC-9183-FDC4A103A6F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{DCC0D0DA-A25D-4FC4-AA8A-AE3BA902A88A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bussiness", "Bussiness\Bussiness.csproj", "{CA691505-4011-407C-8367-94934FA950FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2D94475-65FA-46DC-9183-FDC4A103A6F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D94475-65FA-46DC-9183-FDC4A103A6F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D94475-65FA-46DC-9183-FDC4A103A6F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D94475-65FA-46DC-9183-FDC4A103A6F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCC0D0DA-A25D-4FC4-AA8A-AE3BA902A88A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC0D0DA-A25D-4FC4-AA8A-AE3BA902A88A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC0D0DA-A25D-4FC4-AA8A-AE3BA902A88A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC0D0DA-A25D-4FC4-AA8A-AE3BA902A88A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA691505-4011-407C-8367-94934FA950FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA691505-4011-407C-8367-94934FA950FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA691505-4011-407C-8367-94934FA950FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA691505-4011-407C-8367-94934FA950FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7611646-A67F-406F-B58D-32BC97386FBB}
+	EndGlobalSection
+EndGlobal
